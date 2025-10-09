@@ -1,0 +1,148 @@
+# Configuration Template for StockBus - Trade Pulse
+
+# API Keys (DO NOT COMMIT ACTUAL KEYS - Use .env or update this file locally)
+api_keys:
+  openai: "your-openai-api-key-here"  # For GPT-4o-mini summarization
+  anthropic: "your-anthropic-key-here"  # Alternative: Claude
+  stockpass: "your-trading-platform-key"  # StockPass trading platform
+
+# LLM Configuration
+llm:
+  provider: "openai"  # Options: "openai", "anthropic"
+  model: "gpt-4o-mini"  # Cost-effective summarization
+  temperature: 0.3  # Lower = more focused
+  max_tokens: 500  # For summaries
+  summarization_points: 7  # Target 5-10 key points per article
+
+# News Scraping
+scraping:
+  sources:
+    - "economictimes.indiatimes.com"
+    - "moneycontrol.com"
+    - "business-standard.com"
+    - "livemint.com"
+  max_articles_per_day: 50
+  timeout_seconds: 30
+  retry_attempts: 3
+  user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+
+# Sentiment Analysis
+sentiment:
+  model: "ProsusAI/finbert"  # Pre-trained FinBERT
+  fine_tune: true  # Fine-tune on Indian market data
+  batch_size: 32
+  confidence_threshold: 0.6  # Minimum confidence for predictions
+
+# Prediction Model
+prediction:
+  model_type: "lstm"  # Options: "lstm", "transformer"
+  sequence_length: 10  # Days of history to consider
+  forecast_horizons: [1, 3, 5, 7]  # Days ahead to predict
+  hidden_size: 64
+  num_layers: 2
+  dropout: 0.2
+  learning_rate: 0.001
+  epochs: 50
+  early_stopping_patience: 10
+
+# Backtesting
+backtesting:
+  start_date: "2018-01-01"
+  end_date: "2024-12-31"
+  initial_capital: 1000000  # ₹10,00,000
+  transaction_cost: 0.0005  # 0.05%
+  slippage: 0.0002  # 0.02%
+  max_position_size: 0.30  # 30% of portfolio
+
+# Trading Strategy
+trading:
+  enabled: false  # Set to true when ready for live trading
+  paper_trading: true  # Always use paper trading first!
+  strategies:
+    - name: "directional"
+      buy_threshold: 0.005  # Buy if predicted return > +0.5%
+      sell_threshold: -0.005  # Sell if predicted return < -0.5%
+      position_size: 0.10  # 10% of capital per trade
+    
+  risk_management:
+    max_daily_loss: 20000  # ₹20,000
+    max_weekly_loss: 50000  # ₹50,000
+    stop_loss_pct: 0.02  # 2%
+    take_profit_pct: 0.05  # 5%
+    max_concurrent_positions: 1
+
+# Automation
+automation:
+  enabled: true
+  schedule:
+    scraping: "08:00"  # 8:00 AM IST (before market open)
+    prediction: "08:30"  # 8:30 AM IST
+    reporting: "09:00"  # 9:00 AM IST
+    trading: "09:20"  # 9:20 AM IST (after market open)
+  timezone: "Asia/Kolkata"
+
+# Reporting
+reporting:
+  generate_daily: true
+  formats: ["pdf", "html", "json"]
+  output_dir: "outputs/reports/daily"
+  include_charts: true
+  email_recipients: []  # Add email addresses for reports
+
+# Notifications
+notifications:
+  email:
+    enabled: false
+    smtp_server: "smtp.gmail.com"
+    smtp_port: 587
+    username: "your-email@gmail.com"
+    password: "your-app-password"
+  
+  telegram:
+    enabled: false
+    bot_token: "your-telegram-bot-token"
+    chat_id: "your-chat-id"
+  
+  alerts:
+    prediction_generated: true
+    trade_executed: true
+    error_occurred: true
+    daily_report_ready: true
+
+# Dashboard
+dashboard:
+  host: "localhost"
+  port: 8501
+  theme: "dark"  # Options: "dark", "light"
+  auto_refresh_seconds: 300  # 5 minutes
+  cache_ttl_seconds: 600  # 10 minutes
+
+# Data Management
+data:
+  cache_days: 365  # Keep cached data for 1 year
+  backup_enabled: true
+  backup_frequency: "weekly"
+  compression: true
+
+# Logging
+logging:
+  level: "INFO"  # Options: "DEBUG", "INFO", "WARNING", "ERROR"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  console_output: true
+  file_output: true
+  max_file_size_mb: 10
+  backup_count: 5
+
+# Performance
+performance:
+  use_gpu: false  # Set to true if CUDA GPU available
+  num_workers: 4  # For parallel processing
+  batch_processing: true
+  cache_predictions: true
+
+# Development
+development:
+  debug_mode: true  # Set to false in production
+  verbose_logging: true
+  save_intermediate_results: true
+  test_mode: false  # Use smaller datasets for testing

@@ -1,0 +1,63 @@
+{
+  "total_articles": 9,
+  "timestamp": "2025-10-09T12:04:28.783386",
+  "body_stats": {
+    "min_chars": 482,
+    "max_chars": 9739,
+    "avg_chars": 4369.777777777777,
+    "median_chars": 3958,
+    "min_words": 83,
+    "max_words": 1534,
+    "avg_words": 678.6666666666666,
+    "distribution": {
+      "very_short_(<500)": 1,
+      "short_(500-1500)": 1,
+      "medium_(1500-3000)": 1,
+      "long_(3000-5000)": 3,
+      "very_long_(>5000)": 3
+    }
+  },
+  "extraction_methods": {
+    "breakdown": {
+      "newspaper3k": 9
+    },
+    "newspaper3k_rate": 100.0,
+    "beautifulsoup_rate": 0.0
+  },
+  "publishers": {
+    "total_unique": 8,
+    "top_10": {
+      "Upstox": 2,
+      "Times of India": 1,
+      "Equitymaster": 1,
+      "Mint": 1,
+      "The Economic Times": 1,
+      "CNBC TV18": 1,
+      "simplywall.st": 1,
+      "HDFC Sky": 1
+    }
+  },
+  "dates": {
+    "earliest_scraped": "08/10/2025",
+    "latest_scraped": "08/10/2025",
+    "total_scraped_dates": 1,
+    "articles_with_publish_date": 9,
+    "publish_date_coverage": 100.0
+  },
+  "topics": {
+    "total_unique": 3,
+    "breakdown": {
+      "BSE Sensex India stock market": 2,
+      "Nifty 50 stock market India": 4,
+      "NSE India trading": 3
+    }
+  },
+  "metadata_quality": {
+    "authors_coverage": 22.22222222222222,
+    "published_date_coverage": 100.0,
+    "publisher_coverage": 100.0,
+    "articles_with_authors": 2,
+    "articles_with_published_date": 9,
+    "articles_with_publisher": 9
+  }
+}

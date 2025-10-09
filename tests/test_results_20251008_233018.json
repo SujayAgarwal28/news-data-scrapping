@@ -1,0 +1,31 @@
+{
+  "timestamp": "2025-10-08T23:30:18.162259",
+  "total_tests": 3,
+  "results": [
+    {
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news",
+      "status": "failed",
+      "body_length": 0,
+      "method": "none"
+    },
+    {
+      "url": "https://www.moneycontrol.com/news/business/markets/",
+      "status": "success",
+      "body_length": 6337,
+      "method": "newspaper3k"
+    },
+    {
+      "url": "https://www.business-standard.com/markets",
+      "status": "success",
+      "body_length": 1529,
+      "method": "newspaper3k"
+    }
+  ],
+  "stats": {
+    "total": 0,
+    "success": 2,
+    "failed": 1,
+    "cached": 0,
+    "invalid": 0
+  }
+}
