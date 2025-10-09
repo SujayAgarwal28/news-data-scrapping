@@ -133,5 +133,110 @@
     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQ21aUXo2dTZhX3hrMzhyV3NHVkNtWmhvNWhQb043Sk1nQjktY0VuSFBHRjRVeTVyWXpZWGs2dE9UNUlEVG1wQXdGeG5pdVMxckhYM1NpQUk0ZkhQa1hySUN3NjBqdVM2cm9iM2hNd1RMbEVCeWhlVjJZZWRKVEVBcktEUlc3eGl3Z3BtalpQS1JTbTR3QlMzUUQ1RmF3Z0ZSQ1ZySlpWY0QxZ0ZGUmJieXlYVHVSR3loZl9yWFppOTZ3b1pHSS0wRjNBSmhWY1lGeW1hN2RhSi13UVp4VG5La9IB5gFBVV95cUxNNl9PWGxnbGY1MzNNN3pZbGxiaWt2d25fZERlMVEyNXI2b19YdnZpTHNNSE5CLU0zeFlQZlB1eEEwbGxnc19zbkVBS3QzVlViSm9DcllGVmptM0Y1ZnowLUt0YUZwcXJlVGZkZjJjeVg3bmlJRDZDbHQtOVVQM0JhWFo4RTlnVmdmVkxZZzNGanR1NXBicEE1Rm1OWXNvN0ktU0ZCdVBhYWF4UDlrWnY1U0lyM0RRSEV4Nm1MeUFMSTZoSUNiZlViaVo4X01TNXJHcGI3T3hiamthTVRvWmhJVzRYbFZFdw?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
     "reason": "Not enough words",
     "time": "09/10/2025 12:43"
+  },
+  "b157907cd07c4fa675e5e0c14a615a55": {
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUkVGbm9LTDZYcVg4ellDbUJQNWNrLWtNd1R2bThSS1ZkaXpfR200ZjcyNnlYNU5NOHZvSEVFalJOSWRGQUZaMVhUOENZaHgwVDBPVU8xVDBUZFg5MmtNLXpBZExNXzNwSjc5cGVjUmRsNjZCaUwzV2RnTjB3MnZpT3o3S0R6NURKQURJdG5lQQ?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+    "reason": "Empty body",
+    "time": "09/10/2025 16:03"
+  },
+  "5e1e6bcc68ee17162d2156b0a48bb83c": {
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSE5tM0xWdV91bktvd25ObEs4bDVWU1V0Nk5qei1VZWV4b2dscDlKYXg1aFJZcUl5ZUVlSXp4M2tzQ0FsWkFlN2gtLTdZU09qb0pvYUppamc0SW92LTA4cDBkNTJ2bVFMSnkzUjZkMURrS0k2STR0WjdiU0cyc2FzNDNCVUg5T1JLVVgxc01wUWdET2xLbTJFWnV0NmVDaFJ6SkxVXzA1Q21EZ2RkNGhUVkVaUnFGZ0V0NWQ5ZVoyazk4d18ydFNScC1DOHVxRHppZkMwWmdxcnN3c05GSmV4c0hONXlHSGhPWXAtaNIB8gFBVV95cUxNX2ZibVlmNmxkUDduUjlBNGNnTFdQanAxdnlDSjBWaEMwYzlYTWFkT0dOTlBVUGNZMl96VFNockpYNHVSM1l1Z3Vydng1YTRrdk5waTE5QkpjelZxMVpBemlpRGtDYUwyaXZDSzZyMGU5ME51RHl6V3NHcVNDX0ljZzdTeEcxWTNIVXNyc2RheGVhTm5jYTJFaDZZbmVCNTFWaHFWdURDYnJBZGowZnUwNXBFRVlYNkJwNmg5TDcyMkZSRTJQVmtydDVNbHltdTY3cldHOTlzQUF2Z1lQdGcxbWxUY05rWTMwNWl2QVpRWi1Ydw?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+    "reason": "Message: timeout: Timed out receiving message from renderer: 10.000\n  (Session info: chrome=141.0.7390.55)\nStacktrace:\n\tGetHandleVerifier [0x0xc8fee3+66515]\n\tGetHandleVerifier [0x0xc8ff24+66580]\n\t(No symbol) [0x0xa7dc48]\n\t(No symbol) [0x0xa6e1bc]\n\t(No symbol) [0x0xa6deef]\n\t(No symbol) [0x0xa6be60]\n\t(No symbol) [0x0xa6c937]\n\t(No symbol) [0x0xa7963e]\n\t(No symbol) [0x0xa8b195]\n\t(No symbol) [0x0xa90d26]\n\t(No symbol) [0x0xa6cfb6]\n\t(No symbol) [0x0xa8aee2]\n\t(No symbol) [0x0xb0cab6]\n\t(No symbol) [0x0xaeafc6]\n\t(No symbol) [0x0xabc2ca]\n\t(No symbol) [0x0xabd154]\n\tGetHandleVerifier [0x0xee7413+2521347]\n\tGetHandleVerifier [0x0xee2393+2500739]\n\tGetHandleVerifier [0x0xcb7d34+229924]\n\tGetHandleVerifier [0x0xca8298+165768]\n\tGetHandleVerifier [0x0xcaed4d+193085]\n\tGetHandleVerifier [0x0xc981f8+100072]\n\tGetHandleVerifier [0x0xc98390+100480]\n\tGetHandleVerifier [0x0xc8264a+11066]\n\tBaseThreadInitThunk [0x0x77065d49+25]\n\tRtlInitializeExceptionChain [0x0x77e8d6db+107]\n\tRtlGetAppContainerNamedObjectPath [0x0x77e8d661+561]\n",
+    "time": "09/10/2025 15:32"
+  },
+  "821337b6f2551cea1cfff32538e65b9c": {
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOcXNOX2RXODYweTYxdGxCNjhWOFBERWh4M1FQYmZtYWh5T2Zsam9xTW1CNnZpbTFsaVlIeGNrYkZWRlVXcWdEc3BqcXd6eUZDYW56S28xWmtyaUtDdmN0U2xkeldiVU40ZE1OVmpqbXMtTHZGN3praW9Ua3RsM1ZQUVBsUFpIdGZOUjRMSmI2ak9JWHU0ZVZPM09SUkxjT1c5OVdLajFXWlFXOWU1NHBoNmYyX2lHbUoyRXV2UXBnbEw5clNvVklMcllQa2dVZVh4UDFvMndzbWZEbkdXMU1mOU56NWJvbF9fNm02WjdTd9IB9AFBVV95cUxOWm5iajJFRkZiWTJKS0RLSlV3YVNOM3VRQU8tc2hZYUkxLVVlZjVSYmpYV2RzRjhtYjFMX25XdTZyUi1NeGxFZ3NfVFNsb1FiWHl2d3hGTi1VcTI2N1lHbE1pQ1ZHZWFkNWR5Y3N2bDdldEJ6bWw0Tl9ZWlVxeU94ZVc2Wng2VWFqem8wZHpaeTF1Umt4MzVBbzZFN1d4MEx1czNQWEF1Q0lLenlsdTNRLU5nc1ozUWptU3NnZmZ0U2NZZG93OGxVTENFZE1XUmFmdDJFUkY4c25NSEpuMXBjOEpnSENZSGNfSG5LSFc5S3J3ejdX?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+    "reason": "HTTPConnectionPool(host='localhost', port=57847): Read timed out. (read timeout=120)",
+    "time": "09/10/2025 15:39"
+  },
+  "ad6a6a49852c411c6c0dcb472fbe970e": {
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSXZxSEZxYlJYaTY1Y3VHV0t3Rm5WRmU5T1lSeDlDWWVzSWw3YWNDa3NPNVZwNDlzV0xRcXItdnBLbVZCSDZIaTRjMUNXNXg4VkIyZFZxeExrMHRKVHV5cmFOcUpORkFFLXdRbWl0TVVqSG9FcUlyOXBmVnNYTzVZX19tdldtU1VGMm5BR0t4TlVyTEQwVUdSQWl4QUZiR2VZUUxhdzE0YWlfcl9vR2JmR3FHVzRoMXc5SW1qN2RGSlA5MU5CSlk5b2Q4Mnk4Q1pscUE0MVlvMkXSAd4BQVVfeXFMTjYtZWxxODAtRks5V21yeWRnVGdENFJWVFlYTUpxWHM5R0J1Mjhld0tFX25mNG9fM0hySmpYZG1KZTJyeVpqWm9tZnJtR2tJNGtxYzZkdk81QmE1b05CbVB4Nm90S0FkUzRQSWNZc3dTVzNhbXJrWnRFMXRQUFREaE5kNjVPUzZHOTVab2psa1pXcnFHUXp4a2tBUm5GdTByZjFXNFdOQ0o2THo3cm5XakRyZ19za1dIR1ZEX2MtVG5KWUxKd0NYYThCT1dFNUJNSTFja1J3TzBWZFEwX1Z3?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+    "reason": "HTTPConnectionPool(host='localhost', port=57847): Read timed out. (read timeout=120)",
+    "time": "09/10/2025 15:47"
+  },
+  "735999138bff0b0bb3e2e1a71d2f2d04": {
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVTBqaTlLR0lVbHBpRFFzNnA4QnNPOXBETmliMFUzVG1hdzNMdF9WT2VlRUxubGgxUHZsbXZqTGhPRGpGZmJVSWhYV1NlYWYzZ0RyYV8teGNlc3Q2NG1NWjBERE1JbkZKZFJ1bzEyODZlU0wzaXNvOXVnMlhjTDVWOWRzekhqaW55WWJsenZ3M0NZbFNYeFpwT2J0d2xMbkxaY3loRWZ3VkVRV3o1bVAtaERTbEhJMDZkY2FHY2ltNzdPN0IxZWFlNTRQQ1ZacVZacmlQYlBkSjIzMUFlVFU4dTdTdmpQUG8?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+    "reason": "HTTPConnectionPool(host='localhost', port=57847): Read timed out. (read timeout=120)",
+    "time": "09/10/2025 15:56"
+  },
+  "c6b0343911a96fb6993f9208e0326ad9": {
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb083UlJoU0lJNWFDRURza0Zjd28zUi1QQUVmWGthT0I3MHZPMDRGQ216ZVZ2VHFreGF2a192WGRRS0xlTjRnOHNXRG5TWGoyTTZUelNPS0dmRF9Gajh6QlZiNjl6cS0wMXFPSDFCNkFkSi1oaEQwd2pzTDlISnVuUlNfMWNDNnJnN3BVM21R?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+    "reason": "Empty body",
+    "time": "09/10/2025 16:02"
+  },
+  "1e671f7a31a0b3a1e3cb585fab5ca5a8": {
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMXN3V0FNRW1WdDdJclVWRVgtRlhkRjdQQTFsdi1DaGg3bVR2YUN3R2FwdndFT1pfaGZXRUxPZGF3bXpudmZYcTlVYi1SQ18zVXgzelVlaC10RnBrZi1rdjVNN2VhRGY2Ri1iaTVwaXhsUXhVZ1dvczA5LVpaUWpfbWMtYWNlYkF6S29vb0t1UUpySjJBZFBONkl4YS16dUhFZEtreGZWOFZYVVdDVWEzTWZ0MWRTVDdMLTdZYmgxNjc5R19PV0VHMjEwT3pwZnVkUUJzeDNFT2_SAd4BQVVfeXFMUF9zaWhURmVBWmU4UWhqYmhIX0lsNWJrM29yZlRsX3FoWk90Um04ZjVxU3NXR2FnMUpwUXVVeHA1V3JteUIzd1BMVTk5YnBqLTJDQ0tMTkVPaEZFQW1ud0ppaUc1SERkQnh1VXNmYS01TWdYTmctTUVmZVhNWDRLMEJQR0dRYWhSYnh1RlVkZ2VKNVp5TUFxZG9vTERrM2F6c2lVazkzYnpQTmxEaldWT3h4Xzh6bXNuOHN1SnFla18zWk9sbWh6aHBJbXQzRHkxRzIyOThHREUtaEI4SldR?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+    "reason": "Message: timeout: Timed out receiving message from renderer: 10.000\n  (Session info: chrome=141.0.7390.55)\nStacktrace:\n\tGetHandleVerifier [0x0xc8fee3+66515]\n\tGetHandleVerifier [0x0xc8ff24+66580]\n\t(No symbol) [0x0xa7dc48]\n\t(No symbol) [0x0xa6e1bc]\n\t(No symbol) [0x0xa6deef]\n\t(No symbol) [0x0xa6be60]\n\t(No symbol) [0x0xa6c937]\n\t(No symbol) [0x0xa7963e]\n\t(No symbol) [0x0xa8b195]\n\t(No symbol) [0x0xa90d26]\n\t(No symbol) [0x0xa6cfb6]\n\t(No symbol) [0x0xa8aee2]\n\t(No symbol) [0x0xb0cab6]\n\t(No symbol) [0x0xaeafc6]\n\t(No symbol) [0x0xabc2ca]\n\t(No symbol) [0x0xabd154]\n\tGetHandleVerifier [0x0xee7413+2521347]\n\tGetHandleVerifier [0x0xee2393+2500739]\n\tGetHandleVerifier [0x0xcb7d34+229924]\n\tGetHandleVerifier [0x0xca8298+165768]\n\tGetHandleVerifier [0x0xcaed4d+193085]\n\tGetHandleVerifier [0x0xc981f8+100072]\n\tGetHandleVerifier [0x0xc98390+100480]\n\tGetHandleVerifier [0x0xc8264a+11066]\n\tBaseThreadInitThunk [0x0x77065d49+25]\n\tRtlInitializeExceptionChain [0x0x77e8d6db+107]\n\tRtlGetAppContainerNamedObjectPath [0x0x77e8d661+561]\n",
+    "time": "09/10/2025 15:59"
+  },
+  "1beb6a7eff1570f6916604804b72ff19": {
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONDZOTHRjQXJSVWFlcl9MUWV0VV9xempaYzd0WkVyekh1RWFkRGd2V0RQR1hlWGI4M2NZbjlid29nX3B0SXhURXVpampaaDNua2gtZWdzbEZPS1laS0NkdmZDX3E2VDc2YkZSbmtCc3E4c0FQcmRia0JVdFJEQ0NidkNNQUJTNXhnejJ3RTJySXBMSllYUzJSeTg3SGxWdUlIenhBWXM3Wm5HbzdzdmFmVEtHOXJnNWMz?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+    "reason": "Empty body",
+    "time": "09/10/2025 15:59"
+  },
+  "df8ff87a9b0c5e5f9ad21ce5203a1a0b": {
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ2V3Yy1VU2wyU3RyTkZkbk5JUTd4RVVVclY1VXNMaGg2aEttSVYtN0d6QTVyZFItTzlsTm5RYV9RX1liQzVwelJibW51TEItZWs1WUpBREdjdTYyZkdqb2FydHhuUkRTd01MUkpWSjZsLVU5VFA1dHVTRnBFZkg1akFOMDc3V09ub2sxM05ZRGN2dw?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+    "reason": "Empty body",
+    "time": "09/10/2025 15:59"
+  },
+  "fbf6b7b657a7cf016a8c3c1e7e0c1285": {
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWExPY1p0U2JCSjFna3ZQUVRpQ3l3c0lPcHM4eTN1OGpuNDhVVXUtSW15THNGR0RVOHZyb3R1ZnBnU0Z3UUh5SUN1dmdHQzhhM1VyWmNEZmh3QWJJcW4zaXltak80OFVUZm9Wc21LMHIyemRHSXNPcE1PSEt3aC1nelZYX0ZIeUppT0hYYjBSd2tpVTduNEhqa01MYUM1cXBLR0NTenVFMVA?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+    "reason": "Empty body",
+    "time": "09/10/2025 15:59"
+  },
+  "65f17cce70d6c666092cd8eca5ef3ac8": {
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMXBqME9WandjWDJvNzd0V1pibXc0aUlUVmRpMHlXMkZqRG5WX2xwMTNOTkl4akxoQzJLSDN6dzRiWGFEODAzaldPbUJSNU1LX09obkdyTHRNdjZ4SVNWY2h5UVQ5aFV1UlFiSWV1U0NIX1FCbGppbnl3R1Vsam5YZTRmeHJ3b3Y5UTdseHowcGs?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+    "reason": "Empty body",
+    "time": "09/10/2025 16:00"
+  },
+  "77e1d0289986c552c8fa9d4a2f65d718": {
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTGFtSE5vdTdFMWdiRzlVTWhabWs1LWhSMy1mYkVhblNEVFpmanZwM2VjRVhQYzJXNFRXVFpoeEtjTlM5SV9PVExLclFDNkQza01Wc1hRVnpESTJrRkMwV05OSWE5MlBvRE1zRnlNMGFXcEVJTDRIWFg0LVFaZ0xremJRU1NTeWVlbkFfSG5SVGNCc1dyQl9CSWo5emZfU0g2MGlEVEFQbm83YWxDMG1iYXM5d1l5TEF5SUNzdU9QWkNoaG5nQXE1bzBBckpKbWFLR1VHSC1makxoZDBlTUxF0gHkAUFVX3lxTE5XeGZJVG9scUJ1dzFDMHlFa1ZxMTB6NGJhYzdvRFV3WXhiVlNiUGJVMVlxM2U5WlozZUJFVWNoUnh2UHJhTFNaR3VDQ1J6a1g2VmhYeVlHUElwN05id3lIVFM2YTBXaWxLY0tmQWFJX0lTNEVJbU9iZFZxZWxFbHkxcldNNW83NlllcnFtLV9ub1B5ODYtVjNPd0g2aVk1VE5wMU5FUW8xcmdNRVVOYnpGbVJFaU5zOTlHS0cxWDNBY3JSNFZ4RXI0WE16SXNWY3FmcnJBeGh0T01aOFBjSkFnWnVkdg?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+    "reason": "Message: timeout: Timed out receiving message from renderer: 10.000\n  (Session info: chrome=141.0.7390.55)\nStacktrace:\n\tGetHandleVerifier [0x0xc8fee3+66515]\n\tGetHandleVerifier [0x0xc8ff24+66580]\n\t(No symbol) [0x0xa7dc48]\n\t(No symbol) [0x0xa6e1bc]\n\t(No symbol) [0x0xa6deef]\n\t(No symbol) [0x0xa6be60]\n\t(No symbol) [0x0xa6c937]\n\t(No symbol) [0x0xa7963e]\n\t(No symbol) [0x0xa8b195]\n\t(No symbol) [0x0xa90d26]\n\t(No symbol) [0x0xa6cfb6]\n\t(No symbol) [0x0xa8aee2]\n\t(No symbol) [0x0xb0cab6]\n\t(No symbol) [0x0xaeafc6]\n\t(No symbol) [0x0xabc2ca]\n\t(No symbol) [0x0xabd154]\n\tGetHandleVerifier [0x0xee7413+2521347]\n\tGetHandleVerifier [0x0xee2393+2500739]\n\tGetHandleVerifier [0x0xcb7d34+229924]\n\tGetHandleVerifier [0x0xca8298+165768]\n\tGetHandleVerifier [0x0xcaed4d+193085]\n\tGetHandleVerifier [0x0xc981f8+100072]\n\tGetHandleVerifier [0x0xc98390+100480]\n\tGetHandleVerifier [0x0xc8264a+11066]\n\tBaseThreadInitThunk [0x0x77065d49+25]\n\tRtlInitializeExceptionChain [0x0x77e8d6db+107]\n\tRtlGetAppContainerNamedObjectPath [0x0x77e8d661+561]\n",
+    "time": "09/10/2025 16:01"
+  },
+  "596c83db9b7671d0cd3c28629ff72fc9": {
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9obWtVVC1kazBPN0JiQ253R3NpX0I5Ty1MbTBlS3BuZVJoSWNSOC1VTFg2aDlIV1J2a3FoMnBJWGpPdVExZUpnXzgwUllrQ0ExWWdHQkJhUVJLdjZrX3ZlRHRBd2lKRmFod2x0dkJPcw?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+    "reason": "Excessive repetition",
+    "time": "09/10/2025 16:03"
+  },
+  "5a8701ff941fcc7dcae391a140e3ebb6": {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTENtSWJ3OGlEdDBRT05hSmtYdF83WERTM2k0TUVIX1U1eGRNUVREZkJFVktkT216eVk3RzI4dlVFeVMxVkM2VlZmM18tRTRjNUJFQm54SU43dlh4cTVqWDlvdUlSbllIMTY2TlpsLUxVVXBPckVsVEdXYWZwVFJPN25BUENNR0hCZUlGRVMxdnREaVBXN2ZUWA?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+    "reason": "Empty body",
+    "time": "09/10/2025 16:03"
+  },
+  "883f890ecff881968075b2a5d07c3281": {
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcXYwQXNlMDRZTl9mRWpCd3JBTkg1RURXSDFLX0k1cko4Qng1Mk5mbDl0ekJ3bENhUXZUb2JYMm0wWTlZMnh6Q2RtYUo5allnYzNOOFFweDREYjRqaXNCUnJaeUdyV3VGblRsZGdjS3RVeVFOTHlQNjNkYjRKMF9XVnkzX1JrOHBVLVNfOWdhOVBtQzVnWXgxd056cnV6UQ?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+    "reason": "Empty body",
+    "time": "09/10/2025 16:04"
+  },
+  "0ff9afde2dad13266e652b5cb0305978": {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYWU2Yzd6eUJNa1RNbGp1di05cThoc3lsVEs3T2JDMUNIZmF3eExYXzZxX3R1amV2RjNuSTdrQzZiRm56emJYcnJEZTR0b3BqU2p4dWpJM3BlazJ2WUZVX2JxcnRpZGx0RVk0cjhYbk1sRnNzMk01VnR6anU4UGx4VHkxNlNIQzdHeXlBXzdjeUZxY290UnB1M3lsb1VSREQ0Y3l1X2IweWlyWXNYWVJyYzBRSDY5dw?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+    "reason": "Empty body",
+    "time": "09/10/2025 16:04"
+  },
+  "05ec6e9bafb40f8a64c20f24ec341eb4": {
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcllaV1FOVWQ2bW1ja0UyYkdIWFF5czh4WHloci1VcFZ5Nnd6QmRSSW5VTDdoOTlkTG12c2w3eU1aU3lmSnlpcU9UdGhPMnk3ZUt0cXVxbE5RNXJ1c3pQNF9CVV90Tks1Q285MTVQaGVxY0hSam8wZFZtclRpV0Z4LURaQUpkWERyM2VkNUl0c0FYa085dERKRF91VS04QUpXVW9GcnduQWZydHh5YmkxQ3FPd3NVYVlXUmVqRlhjdTZ6WEN5RTFPRHM4Q3FnYXNVMkJrRmhn0gHbAUFVX3lxTE15cmw0dFRzQ1VCbDdXZ2dfVGsyZUJHNy1qTW40U3VzamQ5NXFldlJTVFdyalhpUlpnTlNGUm5wbnF4QllFMkNvVDFRRGlkdGtySlNCUWtDZ2pWRHRVbUljaUVkM3Z3S2l5T3lwZW5TQkNSajFPYTF0dnctN0dDbUltUlZFdGsxWVZUbG96R3I1dnVtMXVSdllKeVZsQWU5X2JJanRVLTNmU1BLVTVDd0lmR1c2eS1Ca0toc0JmQzlicVpMcmJ0cjNzeThkYU9LelFBVmNPbXVNMmZqcw?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+    "reason": "Message: timeout: Timed out receiving message from renderer: 10.000\n  (Session info: chrome=141.0.7390.55)\nStacktrace:\n\tGetHandleVerifier [0x0xc8fee3+66515]\n\tGetHandleVerifier [0x0xc8ff24+66580]\n\t(No symbol) [0x0xa7dc48]\n\t(No symbol) [0x0xa6e1bc]\n\t(No symbol) [0x0xa6deef]\n\t(No symbol) [0x0xa6be60]\n\t(No symbol) [0x0xa6c937]\n\t(No symbol) [0x0xa7963e]\n\t(No symbol) [0x0xa8b195]\n\t(No symbol) [0x0xa90d26]\n\t(No symbol) [0x0xa6cfb6]\n\t(No symbol) [0x0xa8aee2]\n\t(No symbol) [0x0xb0cab6]\n\t(No symbol) [0x0xaeafc6]\n\t(No symbol) [0x0xabc2ca]\n\t(No symbol) [0x0xabd154]\n\tGetHandleVerifier [0x0xee7413+2521347]\n\tGetHandleVerifier [0x0xee2393+2500739]\n\tGetHandleVerifier [0x0xcb7d34+229924]\n\tGetHandleVerifier [0x0xca8298+165768]\n\tGetHandleVerifier [0x0xcaed4d+193085]\n\tGetHandleVerifier [0x0xc981f8+100072]\n\tGetHandleVerifier [0x0xc98390+100480]\n\tGetHandleVerifier [0x0xc8264a+11066]\n\tBaseThreadInitThunk [0x0x77065d49+25]\n\tRtlInitializeExceptionChain [0x0x77e8d6db+107]\n\tRtlGetAppContainerNamedObjectPath [0x0x77e8d661+561]\n",
+    "time": "09/10/2025 16:06"
+  },
+  "a47b20a8826ad0ca1b43510a9385a2c7": {
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOVVJdkw1aFdiS0lHWjBFNDk2T0V1ODY4ZERHZWJRdEl4a09rWHpXRHBueTlLMHplN3R6dGJQdmRCRzhfckdKb1M4R1g1ZlNWb0dYdWJqa0VhNkYwNkJ0em5TTmNFTFlOVlI3X2ZTVHluZ0FlTlM3OUg2YjVDRURCX19jZjlSc3ppc2pod3h0cmVmVGxiUUxzRzNaMjB2NjZ0YzhCNF9JbWlHOTNJSUpPMmVVZ0ZQTlpwU3NyTkV1dnZmZ09kbV8xaEFxZjRMTFVYVnJpUmV4eXF6cFpOMElfSThnNNIB6AFBVV95cUxOZFEzbVlzUTFLMUNTWURDR2ZVQklwRDhqeG5NWVdSa0p0enltWC1VQXlxdHZMVEJaTWJEXzR3QXdEZEl4dHFkUUFDWENQWDNoeVpTWExLZjU3Y2FpajBBd0lNcEZOWkQ5U0Rld05jaHltQkRDT0FOR0VYaFNDczFNN002cmlsU29jN28zVWRwaVBCZzU1SEJwSHpqS3lJOWtfMGJSWHRrUTE4eUZoNWlWWm16eGtsc2dSbWMzeWt0Wm5iT29oTFJLMjlJaXplbWhWdmIzNFR4MkNlNEVTSmZPTWJkbHRFNXBx?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+    "reason": "Message: timeout: Timed out receiving message from renderer: 10.000\n  (Session info: chrome=141.0.7390.55)\nStacktrace:\n\tGetHandleVerifier [0x0xc8fee3+66515]\n\tGetHandleVerifier [0x0xc8ff24+66580]\n\t(No symbol) [0x0xa7dc48]\n\t(No symbol) [0x0xa6e1bc]\n\t(No symbol) [0x0xa6deef]\n\t(No symbol) [0x0xa6be60]\n\t(No symbol) [0x0xa6c937]\n\t(No symbol) [0x0xa7963e]\n\t(No symbol) [0x0xa8b195]\n\t(No symbol) [0x0xa90d26]\n\t(No symbol) [0x0xa6cfb6]\n\t(No symbol) [0x0xa8aee2]\n\t(No symbol) [0x0xb0cab6]\n\t(No symbol) [0x0xaeafc6]\n\t(No symbol) [0x0xabc2ca]\n\t(No symbol) [0x0xabd154]\n\tGetHandleVerifier [0x0xee7413+2521347]\n\tGetHandleVerifier [0x0xee2393+2500739]\n\tGetHandleVerifier [0x0xcb7d34+229924]\n\tGetHandleVerifier [0x0xca8298+165768]\n\tGetHandleVerifier [0x0xcaed4d+193085]\n\tGetHandleVerifier [0x0xc981f8+100072]\n\tGetHandleVerifier [0x0xc98390+100480]\n\tGetHandleVerifier [0x0xc8264a+11066]\n\tBaseThreadInitThunk [0x0x77065d49+25]\n\tRtlInitializeExceptionChain [0x0x77e8d6db+107]\n\tRtlGetAppContainerNamedObjectPath [0x0x77e8d661+561]\n",
+    "time": "09/10/2025 16:08"
+  },
+  "65cb4805390a2aaa5661f1d6c6c1e082": {
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSExHR3pydjlvWno2alhjTXRQdU95TEJfUFV5eVlSQWtrckNnZmpHTkVFU2ZkcUdtY1dGdjh1U1lITFJiS3F4VXB6TExSSFdtZktzNWR1N1VkQ2VSdzg1WGVvcnIwVGhndWdkWmNMRXljMkFvWWNtV2Y4ajJkVEF0R0g1SV91NnB5UXRRYmpMOURzM3hNd3hldTFB?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+    "reason": "Excessive repetition",
+    "time": "09/10/2025 16:09"
+  },
+  "2a31ff6b7ce0c450d310b7509cf15f91": {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRmJORkxMX1R1YjdScThMMkgyaTktbnpzRXlVLW5EUXNBRVdXX191bWs4VVR1c18xRGlzSTJBb2NyazNySHZ2emNRcTlBN3VRazQwMVFITmY2NDh1REZpSzVGZTdHbWZvTWx0TF9GV2dLajd0UVhQSkNvUm54dkkyMjJzejk3bmhiY2liQlVPbTlMczRVN2dVMjZFUDFULTJwVkcwT2Jzd1h5QkxH?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+    "reason": "Empty body",
+    "time": "09/10/2025 16:09"
+  },
+  "f9d6f5ae01055dcebc0a579c3977b496": {
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQXRwazBpYnNETW94VEl0YnVoeVlQekctNkhUNjhPVXZCdmFYTm1hQy1YVHYxaFBtdHNXbDNySHFRbHBvSGtRd2ZKOFZuSllZTnFvT3BvV2FuZ1VFTF9lWFozMDkwNFlCNThTT2czcTgwVVVRNjNIcVJiRnBwNkFuQkpiZE9FNFgwalFmNHZFZmxkQXJPWGplYS1tWEV1N2lOSjdNUHY2OFdjeUhiMDJXY013ODkxN2hXM0NORVh4VzNWaUhFYnVhQTQyRmhEaE5obUxONHBlZGhvVXFMazZF0gHkAUFVX3lxTE5FT3ZaYW1tUHUyT21TMENaaUFNMmNaLXlaelE1dUI2NElOLXpMeGo2bTNUS0g0d2Qtc1VUa3VDcDY0cmFNSFlYX3E5MVB0SW1tYno4ZlZfUmlKNm1PRUJxb0NvN1ZPLVhfUDBBZmpBalFVbmhQY1I3OS05dlY3SXc5M1ZpV19OeUdXMEhKaTRSeFpteGRBYV95WHdNVDFWQk1KUjFLVWtJelE0NmRTRFhrV3MwVU9QVzZIWWE5cHZWSEJGcE10Y3RPdG1wck15b04zNzNOemJOM2ZfVEhEdUNoN1l6aw?oc=5&hl=en-IN&gl=IN&ceid=IN:en",
+    "reason": "HTTPConnectionPool(host='localhost', port=57847): Read timed out. (read timeout=120)",
+    "time": "09/10/2025 16:18"
   }
 }
